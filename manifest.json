@@ -2,7 +2,7 @@
   "name": "Immo-bile",
   "short_name": "Immo-bile",
   "description": "Gestion des indemnités kilométriques, assemblées générales et notes de frais",
-  "start_url": "./index.html",
+  "start_url": ".",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
