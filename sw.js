@@ -2,7 +2,7 @@
 // pour un chargement instantané, y compris hors connexion. Les appels à Supabase
 // (données) ne sont volontairement PAS mis en cache : ils doivent toujours être frais.
 
-const CACHE_NAME = 'immobile-shell-v6'; // ⚠️ incrémentez ce numéro à chaque mise à jour de l'app
+const CACHE_NAME = 'immobile-shell-v7'; // ⚠️ incrémentez ce numéro à chaque mise à jour de l'app
 const APP_SHELL = [
   './',
   './index.html',
